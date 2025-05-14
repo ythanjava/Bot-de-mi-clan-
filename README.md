@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://imgur.com/a/lGCrBhv" alt="Banner animado" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/4dQk2j4.jpeg" alt="Logo del Bot" width="300px" />
+</p>
 
 <h1 align="center">BOT DE MI CLAN</h1>
 
