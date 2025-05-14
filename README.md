@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/gallery/logo-del-bot-3cm7dpE" alt="Banner animado" width="100%" />
+  <img src="https://imgur.com/gallery/3cm7dpE" alt="Banner animado" width="100%" />
 </p>
 
 <p align="center">
