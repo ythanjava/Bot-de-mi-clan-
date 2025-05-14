@@ -1,0 +1,17 @@
+{
+  "name": "Exody",
+  "website": "https://github.com/JAVIER10733",
+  "description": "Super Bot WhatsApp",
+  "logo": "https://i.postimg.cc/RCjpgnHg/Exodi-logo.png",
+  "success_url": "https://github.com/JAVIER10733/Bot-de-mi-clan-",
+  "keywords": [
+    "nodejs", "heroku", "bot", "spanish", "termux", "whatsapp", "multi-device", "md", "javascript", "exodybot"
+  ],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+    { "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" },
+    { "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick" }    
+  ]
+}
